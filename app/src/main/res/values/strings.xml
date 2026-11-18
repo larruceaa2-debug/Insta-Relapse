@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Insta-Relapse</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_connections">Accounts</string>
+    <string name="nav_history">History</string>
+    <string name="nav_guide">Guide</string>
+    <string name="privacy_badge">100% Offline • No Password Needed</string>
+    <string name="import_export_button">Import ZIP / JSON</string>
+    <string name="import_another_button">Import New Snapshot</string>
+    <string name="empty_title">Analyze Your Official Export</string>
+    <string name="empty_subtitle">Import your Instagram ZIP or JSON files (followers &amp; following) to discover who doesn\'t follow back—completely offline.</string>
+    <string name="search_accounts_hint">Search @username…</string>
+    <string name="open_profile_cd">Open profile on Instagram</string>
+    <string name="copy_handle_cd">Copy username</string>
+    <string name="whitelist_add_cd">Ignore in non-followers</string>
+    <string name="whitelist_remove_cd">Unignore account</string>
+    <string name="delete_snapshot_cd">Delete snapshot</string>
+</resources>

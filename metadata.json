@@ -1,0 +1,6 @@
+{
+  "name": "Insta-Relapse",
+  "description": "Offline, zero-login follower analyzer for your official social export ZIP and JSON files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
